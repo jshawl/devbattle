@@ -9,10 +9,11 @@
 A Basic CRUD app:
 
 - Users can log in / sign up for an account
+- Users can log out
 - Users can create/read/edit/delete posts
 - Users can create/read/edit/delete comments
 - Users can only delete their own comments
-- The User who create the post can delete any comments on that post
+- The User who created the post can delete any comments on that post
 - Deployed to the internet
 
 ### Ignoring
